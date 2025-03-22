@@ -2,7 +2,7 @@
 
 Ova-sense is a simulated chip-based cancer detection model designed to identify biomarkers from medical images using a Convolutional Neural Network (CNN).
 
-## 📌**Model Overview**
+## **Model Overview**
 - **Input:** Medical images divided into 5 vertical regions representing biomarker activity.  
 - **Architecture:** CNN with specialized convolutional layers and menopause-state encoding.  
 - **Output:** Probability score for cancer presence.  
