@@ -16,9 +16,10 @@ git clone https://github.com/SoumilB7/Ova-sense.git
 ## **Roles**
 - Data prepraration : `dataprep.ipynb`
 - Model training : `train.ipynb`
-- Datasets : 
-    - `dataset_pre` : Pre menopause biomarker levels chip readings
-    - `dataset_post` : Post menopause biomarker levels chip readings
+- [Dataset](https://huggingface.co/datasets/SoumilB7/Ova-sense) : 
+    - `dataset_pre` : Pre menopause biomarker levels chip reading
+    - `dataset_post` : Post menopause biomarker levels chip reading
+    - `dataset_staged` : biomarker levels chip reading distributed into cancer stages
 
 ## **Visualization**
 Use `visualization.ipynb` to visualize biomarker activity and CNN lifecycle.
