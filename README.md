@@ -14,24 +14,31 @@ git clone https://github.com/SoumilB7/Ova-sense.git
 ```
 
 ## **Roles**
-- Data prepraration : `dataprep.ipynb`
-- Model training : `train.ipynb`
+- Data prepraration : `dataprep_v2.ipynb`
+- Model training : `train_v2git .ipynb`
 - [Dataset](https://huggingface.co/datasets/SoumilB7/Ova-sense) : 
     - `dataset_pre` : Pre menopause biomarker levels chip reading
     - `dataset_post` : Post menopause biomarker levels chip reading
     - `dataset_staged` : biomarker levels chip reading distributed into cancer stages
 
 ## **Visualization**
-Use `visualization.ipynb` to visualize biomarker activity and CNN lifecycle.
+Use `visualization_v2.ipynb` to visualize biomarker activity and CNN lifecycle.
 
-##### **Peek into the chip**:
+##### **Peek into the chip v1**:
 <p align="center">
-  <img src="image.png" alt="Overview 1" width="210"/>
-  <img src="chip.png" alt="Overview 2" width="170"/>
+  <img src="ver1/image_v1.png" alt="Overview 1" width="210"/>
+  <img src="ver1/chip.png" alt="Overview 2" width="170"/>
 </p>
 
+##### **Peek into the chip v1**:
+<p align="center">
+  <img src="image_v2.png" alt="Overview 1" width="210"/>
+  <img src="chip_v2.png" alt="Overview 2" width="170"/>
+</p>
+
+
 ## Model
-- Stored at : [HuggingFace](https://huggingface.co/SoumilB7/Ova-sense)
+- V2 Stored at : [HuggingFace](https://huggingface.co/SoumilB7/Ova-sense)
 
 ## **License**
 This project is licensed under the MIT License.
