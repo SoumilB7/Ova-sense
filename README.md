@@ -41,4 +41,4 @@ Use `visualization_v2.ipynb` to visualize biomarker activity and CNN lifecycle.
 - additionally stored at : [HuggingFace](https://huggingface.co/SoumilB7/Ova-sense)
 
 ## **License**
-This project is licensed under the MIT License.
+This project is license terms are written in the `LICENSE.txt` file.
