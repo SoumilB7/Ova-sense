@@ -31,7 +31,7 @@ Use `visualization_v2.ipynb` to visualize biomarker activity and CNN lifecycle.
 
 ##### **Peek into the chip v2**:
 <p align="center">
-  <img src="image_v2.png" alt="Overview 1" width="210"/>
+  <img src="example/chip_image_v2.png" alt="Overview 1" width="210"/>
   <img src="chip_v2.png" alt="Overview 2" width="210"/>
 </p>
 
