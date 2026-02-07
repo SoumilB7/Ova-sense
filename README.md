@@ -3,7 +3,7 @@
 Ova-sense is a simulated chip-based cancer detection model designed to identify biomarkers from medical images using a Convolutional Neural Network (CNN).
 
 ## **Model Overview**
-- **Input:** Synthetic chip images (6 radial biomarker petals, 500x500px) and real ovarian ultrasound images (224x224px).
+- **Input:** Synthetic chip images (6 radial biomarker petals, 500x500px) and real ovarian ultrasound images.
 - **Architecture:** Custom CNN for chip-based biomarker detection + ResNet18 for ultrasound classification, combined via multimodal ensemble.
 - **Output:** Probability score for cancer presence from each modality, averaged into a final diagnosis.
 
