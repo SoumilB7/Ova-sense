@@ -1,0 +1,58 @@
+================================================================================
+                        DATA SOURCE & USAGE NOTICE
+================================================================================
+
+Dataset Name:
+    MMOTU - Multi-Modality Ovarian Tumor Ultrasound Image Dataset
+
+Source:
+    Kaggle: https://www.kaggle.com/datasets/orvile/mmotu-ovarian-ultrasound-images-dataset
+    Uploaded by: Orvile (Kaggle user)
+
+Original Authors:
+    Qi Zhao, Shuchang Lyu, Wenpei Bai, Linghan Cai, Binghao Liu,
+    Guangliang Cheng, Meijing Wu, Xiubo Sang, Min Yang, Lijiang Chen
+
+Original Paper:
+    "MMOTU: A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for
+     Unsupervised Cross-Domain Semantic Segmentation"
+    arXiv:2207.06799 [cs.CV], 2022
+    DOI: https://doi.org/10.48550/arXiv.2207.06799
+    Paper: https://arxiv.org/abs/2207.06799
+
+Official Repository:
+    https://github.com/cv516Buaa/MMOTU_DS2Net
+
+License:
+    Creative Commons Attribution 4.0 International (CC BY 4.0)
+    https://creativecommons.org/licenses/by/4.0/
+
+Dataset Description:
+    The MMOTU dataset contains 1,469 2D ultrasound images and 170 contrast-
+    enhanced ultrasonography (CEUS) images of ovarian tumors, collected from
+    294 patients at Beijing Shijitan Hospital, Capital Medical University.
+    Images include pixel-wise segmentation masks and global classification
+    annotations across 8 tumor subtypes (case labels 0-7).
+
+Usage in This Project (Ova-sense):
+    A subset of 1,471 ultrasound images from this dataset is used in the
+    Ova-sense project for research and educational purposes. The images serve
+    as a real-world medical ultrasound reference alongside our synthetic
+    chip-based dataset for ovarian cancer detection model development.
+
+Citation (BibTeX):
+    @article{zhao2022mmotu,
+      author    = {Qi Zhao and Shuchang Lyu and Wenpei Bai and Linghan Cai
+                   and Binghao Liu and Guangliang Cheng and Meijing Wu
+                   and Xiubo Sang and Min Yang and Lijiang Chen},
+      title     = {A Multi-Modality Ovarian Tumor Ultrasound Image Dataset
+                   for Unsupervised Cross-Domain Semantic Segmentation},
+      journal   = {arXiv preprint arXiv:2207.06799},
+      year      = {2022},
+      doi       = {10.48550/arXiv.2207.06799}
+    }
+
+================================================================================
+This dataset is used under the terms of CC BY 4.0. All credit for the
+original data collection and annotation belongs to the authors listed above.
+================================================================================
